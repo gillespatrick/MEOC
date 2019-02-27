@@ -5,6 +5,7 @@ p{
 	font-size: 150%;
 	text-align: justify;
 	font-weight: normal;
+	
 
 
 
@@ -19,7 +20,7 @@ h1{
 }
 
 body{
-	background-color: aqua
+	background: #bddddd
 	;
 }
 
@@ -29,11 +30,15 @@ a{
 
 }
 b{
-	margin: 30px;
-	font-size: 30px;
+	margin:30px;
+	font-size:30px;
 }
 i{
 	margin: 40px
 	;
+}
+
+p,h1,b,i,a{
+	font-family: 'Hi Melody', cursive;
 }
 
